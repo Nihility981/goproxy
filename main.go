@@ -20,5 +20,5 @@ func main() {
 		<-c
 	}()
 
-	Run(os.Args[1])
+	//Run(os.Args[1])
 }
